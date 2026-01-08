@@ -1,16 +1,16 @@
-## Hi there 👋
+[![Ethical Hacking](https://prostack.uk/penetration-testing/)
 
 
-**RufGhoul/RufGhoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rufida 👋  
 
-Here are some ideas to get you started:
+Computer Engineering graduate who enjoys doing what I am advised not to do. (until I try it myself)
+🧪 Interested in penetration Testing.   
+🔐 Background in penetration testing fundamentals, microprocessing, robotics, AI/ machine learning, and algorithms/database. 
+💻 Experience with C, C++, C#, Python, SQL, and arduino. 
+🛠 Tools: Nmap, Burp Suite, Metasploit, Kali Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I care about creativity, quality, and security rather than internet addictivity.  
+Currently learning manual testing, test case design, and bug reporting.
 
+📍 Istanbul, Türkiye  
+📫 rufghoul4@gmail.com
