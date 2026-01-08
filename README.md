@@ -1,5 +1,4 @@
-[![Ethical Hacking](https://github.com/user-attachments/assets/33dc11f5-ea01-4116-8c32-a2db50893cf0)
-
+<img src="[assets/hacking.gif](https://github.com/user-attachments/assets/33dc11f5-ea01-4116-8c32-a2db50893cf0)" width="300" /> 
 
 Hi, I'm Rufida 👋  
 
