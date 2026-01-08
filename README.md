@@ -2,7 +2,7 @@
 
 Hi, I'm Rufida 👋  
 
-Computer Engineering graduate who is excited to start a career.
+Computer Engineering graduate who is excited to start a career./n
 🧪 Interested in penetration Testing.   
 🔐 Background in penetration testing fundamentals, microprocessing, robotics, AI/machine learning, and algorithms/database. 
 💻 Experience with C, C++, C#, Python, SQL, and arduino. 
