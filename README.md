@@ -4,7 +4,8 @@ Hi, I'm Rufida 👋
 
 Computer Engineering graduate who enjoys doing what I am advised not to do. (until I try it myself)
 🧪 Interested in penetration Testing.   
-🔐 Background in penetration testing fundamentals, microprocessing, robotics, AI/ machine learning, and algorithms/database. 
+🔐 Background in penetration testing fundamentals, microprocessing, robotics, AI/machine learning, and algorithms/database. 
+
 💻 Experience with C, C++, C#, Python, SQL, and arduino. 
 🛠 Tools: Nmap, Burp Suite, Metasploit, Kali Linux  
 
